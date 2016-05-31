@@ -1,0 +1,123 @@
+div#account
+{
+width:100%;
+height:180px;
+padding:20px 0px;
+line-height:110px;
+background-color:#333;
+}
+div.accountitem
+{
+width:960px;
+height:90px;
+float:none;
+margin:0px auto;
+color:#fff;
+background-color:#222;
+}
+div#accountmessage
+{
+width:920px;
+height:60px;
+line-height:60px;
+margin:20px 20px 0px 20px;
+background-color:#35e79b;
+color:#333;
+}
+div.accountbutton
+{
+width:448px;
+height:58px;
+margin-top:10px;
+margin-left:20px;
+line-height:58px;
+color:#35e79b;
+border:1px solid #35e79b;
+}
+div#cover
+{
+width:100%;
+height:600px;
+background-image:url('http://ramity.com/img/cover.jpg');
+background-size:100% 100%;
+background-position:center;
+background-attachment:fixed;
+background-repeat:no-repeat;
+}
+div#coverinr
+{
+width:355px;
+height:100px;
+line-height:100px;
+float:none;
+border-left:5px solid #fff;
+padding:0px 20px;
+margin:250px auto;
+font-size:75px;
+color:#fff;
+}
+div#discover
+{
+width:100%;
+}
+div#discoverinr
+{
+width:960px;
+float:none;
+margin:0px auto;
+}
+div#discoversearch
+{
+width:920px;
+height:30px;
+line-height:30px;
+padding:20px;
+margin:20px 0px;
+border-bottom:5px solid #0773C6;
+color:#fff;
+background-color:#409de4;
+}
+div#discoverimages
+{
+width:960px;
+margin-bottom:20px;
+background-color:#fff;
+}
+div#discoverimagesholder
+{
+width:980px;
+}
+div#discoversidebar
+{
+width:300px;
+height:1090px;
+background-color:#409de4;
+color:#fff;
+}
+div.discoversidebaritem,
+div.discoversidebaritemactive
+{
+width:280px;
+height:50px;
+padding-left:20px;
+line-height:50px;
+text-align:left;
+}
+div.discoversidebaritemactive
+{
+background-color:#65B1EB;
+}
+div#discoverresults
+{
+width:660px;
+height:49px;
+border-bottom:1px solid #eee;
+line-height:49px;
+color:#777;
+}
+img.discoveritem
+{
+width:300px;
+height:150px;
+margin:20px 0px 0px 20px;
+}
