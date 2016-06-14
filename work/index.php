@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 	<head>
 		<title></title>
-		<link type="text/css" rel="stylesheet" href="http://ramity.com/css/work.css">
+		<link type="text/css" rel="stylesheet" href="../css/work.css">
 		<link href="http://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">
 	</head>
 	<body>

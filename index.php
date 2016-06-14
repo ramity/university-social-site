@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 	<head>
 		<title>The new social network</title>
-		<link type="text/css" rel="stylesheet" href="http://ramity.com/css/default.css">
-		<link type="text/css" rel="stylesheet" href="http://ramity.com/css/topbar.css">
-		<link type="text/css" rel="stylesheet" href="http://ramity.com/css/index.css">
+		<link type="text/css" rel="stylesheet" href="css/default.css">
+		<link type="text/css" rel="stylesheet" href="css/topbar.css">
+		<link type="text/css" rel="stylesheet" href="css/index.css">
 		<link href="http://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 	</head>
 	<body>
-		<?php require('/home/ramity/rwork/content/topbar.php');?>
+		<?php //require('/home/ramity/rwork/content/topbar.php');?>
 		<div id="account">
 			<div class="accountitem">
 				<div id="accountmessage">
@@ -16,10 +16,10 @@
 				</div>
 			</div>
 			<div class="accountitem">
-				<a href="http://ramity.com/register">
+				<a href="register">
 					<div class="accountbutton">Register</div>
 				</a>
-				<a href="http://ramity.com/login">
+				<a href="login">
 					<div class="accountbutton">Log In</div>
 				</a>
 			</div>
@@ -59,7 +59,7 @@
 						<img class="discoveritem" src="">
 						<img class="discoveritem" src="">
 						<img class="discoveritem" src="">
-						
+
 					</div>
 				</div>
 			</div>
